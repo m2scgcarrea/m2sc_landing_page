@@ -135,7 +135,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Contatti",
+            "label": "Contatto",
             "states": [
                 {
                     "cardId": "c000cbdb",
